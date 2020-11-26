@@ -15,5 +15,5 @@ Flutter plugin for Facebook Analytics and App Events
   s.dependency 'FBSDKCoreKit'
   s.swift_version       = '4.0'
 
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '11.0'
 end
